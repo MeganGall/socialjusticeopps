@@ -1,6 +1,8 @@
-# socialjusticeopportunities
-List of social justice opportunities
+**Opportunities for Data Wranglers and Geo Folk in Social Justice Work**
 
+Anything in quotes is pulled directly from the org website. I'll be working on adding notes and more resources.
+
+Updated 6/10/2020
 
 Job Boards - Anything in quotes is pulled directly from the org website.  
 Name | Org Blurb | Notes
