@@ -4,7 +4,7 @@ List of social justice opportunities
 
 Job Boards - Anything in quotes is pulled directly from the org website.  
 Name | Org Blurb | Notes
---- | --- | --- | ---
+--- | --- | --- 
 [The Bridge](https://jobs.thebridgework.com/) | "Jobs in Tech, Policy and Politics"
 [Progressive Data Jobs](https://progressivedatajobs.org/)| "Apply, get job, win."
 [Code for America](https://jobs.codeforamerica.org/) | "Work on things that matter."
