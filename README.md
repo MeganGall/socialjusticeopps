@@ -4,7 +4,7 @@
 
 Updated 6/10/2020 
 
-#### Job Boards - Anything in quotes is pulled directly from the org website.  
+#### Job Boards  
 Name | Org Blurb | Notes
 --- | --- | --- 
 [The Bridge](https://jobs.thebridgework.com/) | "Jobs in Tech, Policy and Politics"
