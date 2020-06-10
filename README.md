@@ -5,7 +5,7 @@ List of social justice opportunities
 Job Boards  
 Name | Link | Category | Blurb
 --- | --- | --- | ---
-The Bridge | https://jobs.thebridgework.com/ | Job Listings | "Jobs in Tech, Policy and Politics"
+[The Bridge](https://jobs.thebridgework.com/) | Job Listings | "Jobs in Tech, Policy and Politics"
 Progressive Data Jobs| https://progressivedatajobs.org/ | Jobs Listings | "Apply, get job, win."
 Code for America | https://jobs.codeforamerica.org/ | Jobs Listings | "Work on things that matter."
 Democratic Gain | https://careercenter.democraticgain.org/ | Jobs Listings | “Directories, jobs, stories, resources, networking & marketing for progressive nonprofits, Democratic campaigns, the Resistance movement, and the professionals & activists who support them...ALL RIGHT HERE.”
