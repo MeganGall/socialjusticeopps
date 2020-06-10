@@ -26,7 +26,7 @@ Name | Org Blurb | Notes
 [Generation Data](https://www.generationdata.org/) | "Our focus is training the next generation of leaders in the progressive data management community."
 
 Civil Rights Organizations
-Name | 
+Name | Other
 --- | --- 
 [Lawyers' Committee for Civil Rights Under Law](https://lawyerscommittee.org/career-opportunities/) | Non-Profit Civil Rights | 
 [NAACP LDF](https://www.naacpldf.org/about-us/careers/) | Non-Profit Civil Rights | 
