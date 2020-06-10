@@ -11,7 +11,7 @@ Name | Org Blurb | Notes
 [Democratic Gain](https://careercenter.democraticgain.org/) | “Directories, jobs, stories, resources, networking & marketing for progressive nonprofits, Democratic campaigns, the Resistance movement, and the professionals & activists who support them...ALL RIGHT HERE.”
 [Inclusv](https://inclusv.com/) | "Join the community of people of color in politics"
 [All Hands](https://www.all-hands.us/) | "We’re putting out a call for the best and the brightest in tech and data to step up"
-[Idealist])https://www.idealist.org/en/) | "Change requires action. Start here."
+[Idealist](https://www.idealist.org/en/) | "Change requires action. Start here."
 [Higher Ground Labs](https://jobs.highergroundlabs.com/) | "Companies you'll love to work for."
 
 Learning Opportunities
