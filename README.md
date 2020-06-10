@@ -13,7 +13,7 @@ Name | Org Blurb | Notes
 [All Hands](https://www.all-hands.us/) | "We’re putting out a call for the best andhttps://www.ncsl.org/searchresults/issearch/false/kwdid/519.aspx the brightest in tech and data to step up"
 [Idealist](https://www.idealist.org/en/) | "Change requires action. Start here."
 [Higher Ground Labs](https://jobs.highergroundlabs.com/) | "Companies you'll love to work for."
-[National Conference of State Legislatures](https://www.ncsl.org/searchresults/issearch/false/kwdid/519.aspx) | Do good work in government!
+[National Conference of State Legislatures](https://www.ncsl.org/searchresults/issearch/false/kwdid/519.aspx) | "We are the nation's most respected bipartisan organization providing states support, ideas, connections and a strong voice on Capitol Hill." | Do good work in government!
 
 Learning Opportunities
 Name | Org Blurb | Notes
