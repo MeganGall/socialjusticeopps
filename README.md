@@ -66,6 +66,6 @@ Name | What is it? | Notes
 [Crack the Code](https://www.crackthecode.io/) | "Crack the Code supports the personal and professional growth of people working in progressive data, analytics, and technology. We started as a conference series for women, genderqueer, and trans people working in the field, and we have expanded to organize events and trainings for people of all backgrounds." |
 
 
-[Find me on Twitter: @DocGallJr](https://twitter.com/DocGallJr) if you want to talk shop.
+[Find me on Twitter (@DocGallJr)](https://twitter.com/DocGallJr) if you want to talk shop.
 
 
