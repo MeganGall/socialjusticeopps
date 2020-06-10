@@ -10,9 +10,10 @@ Name | Org Blurb | Notes
 [Code for America](https://jobs.codeforamerica.org/) | "Work on things that matter."
 [Democratic Gain](https://careercenter.democraticgain.org/) | “Directories, jobs, stories, resources, networking & marketing for progressive nonprofits, Democratic campaigns, the Resistance movement, and the professionals & activists who support them...ALL RIGHT HERE.”
 [Inclusv](https://inclusv.com/) | "Join the community of people of color in politics"
-[All Hands](https://www.all-hands.us/) | "We’re putting out a call for the best and the brightest in tech and data to step up"
+[All Hands](https://www.all-hands.us/) | "We’re putting out a call for the best andhttps://www.ncsl.org/searchresults/issearch/false/kwdid/519.aspx the brightest in tech and data to step up"
 [Idealist](https://www.idealist.org/en/) | "Change requires action. Start here."
 [Higher Ground Labs](https://jobs.highergroundlabs.com/) | "Companies you'll love to work for."
+[National Conference of State Legislatures](https://www.ncsl.org/searchresults/issearch/false/kwdid/519.aspx) | Do good work in government!
 
 Learning Opportunities
 Name | Org Blurb | Notes
@@ -27,6 +28,7 @@ Name | Org Blurb | Notes
 Volunteer Opportunities
 Name | Org Blurb | Notes
 --- | --- | --- 
+[State Redistricting Commissions](https://www.ncsl.org/research/redistricting/redistricting-commissions-congressional-plans.aspx) | "Redistricting Commissions: Congressional Plans" | Does your state invite citizen commissioners and map-makers? Find a list here. Get involved!
 [DataKind](https://www.datakind.org/) | "Harnessing the power of data science in the service of humanity." |
 [Catch a Fire](https://www.catchafire.org/) | "Catchafire strengthens the social good sector by matching professionals who want to donate their time with nonprofits who need their skills." |
 [Data for Democracy](https://www.datafordemocracy.org/) | "Data for Democracy unites a functioning, enthusiastic network of individuals utilizing data to drive better choices and improve the world where we live." | 
