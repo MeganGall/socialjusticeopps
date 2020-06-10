@@ -34,6 +34,7 @@ Name | Org Blurb | Notes
 [DataKind](https://www.datakind.org/) | "Harnessing the power of data science in the service of humanity." |
 [Catch a Fire](https://www.catchafire.org/) | "Catchafire strengthens the social good sector by matching professionals who want to donate their time with nonprofits who need their skills." |
 [Data for Democracy](https://www.datafordemocracy.org/) | "Data for Democracy unites a functioning, enthusiastic network of individuals utilizing data to drive better choices and improve the world where we live." | 
+[Mapping Prejudice](https://www.mappingprejudice.org/) | "Visualizing the hidden histories of race and privilege in the urban landscape" |Award-winning, crowd-sourcing, geo-adjacent project started in Minnesota|
 
 
 
