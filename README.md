@@ -2,8 +2,8 @@
 List of social justice opportunities
 
 
-Job Boards  
-Name | Link | Category | Blurb
+Job Boards - Anything in quotes is pulled directly from the org website.  
+Name | Org Blurb | Notes
 --- | --- | --- | ---
 [The Bridge](https://jobs.thebridgework.com/) | "Jobs in Tech, Policy and Politics"
 [Progressive Data Jobs](https://progressivedatajobs.org/)| "Apply, get job, win."
@@ -15,8 +15,8 @@ Name | Link | Category | Blurb
 [Higher Ground Labs](https://jobs.highergroundlabs.com/) | "Companies you'll love to work for."
 
 Learning Opportunities
-Name | Link | Category | Blurb
---- | --- | --- | ---
+Name | Org Blurb | Notes
+--- | --- | --- 
 [Guide to Progressive Data Jobs](https://www.guide.progressivedatajobs.org/) | "So You Want to Work in Progressive Analytics"
 [Hello Martha's List](http://hellomartha.co/resources.html) | "Interested in transitioning into analytics or data science? Here are some resources that can help you get started!"
 [Arena Academy](https://arena.run/academy) | "Arena Academy is a best-in-class training program for political professionals." See 'Data Director' track.
@@ -26,8 +26,8 @@ Name | Link | Category | Blurb
 [Generation Data](https://www.generationdata.org/) | "Our focus is training the next generation of leaders in the progressive data management community."
 
 Civil Rights Organizations
-Name | Link | Category | Blurb
---- | --- | --- | ---
+Name | 
+--- | --- 
 [Lawyers' Committee for Civil Rights Under Law](https://lawyerscommittee.org/career-opportunities/) | Non-Profit Civil Rights | 
 [NAACP LDF](https://www.naacpldf.org/about-us/careers/) | Non-Profit Civil Rights | 
 [Asian Americans Advancing Justice](https://www.advancingjustice-aajc.org/get-involved/job-opportunities) | Non-Profit Civil Rights |
@@ -38,8 +38,8 @@ Name | Link | Category | Blurb
 [Demos](https://www.demos.org/about/careers) | Non-Profit Civil Rights | 
 
 Other Organizations
-Name | Link | Category | Blurb
---- | --- | --- | ---
+Name | Org Blurb | Notes
+--- | --- | --- 
 [Azavea Summer of Maps](https://www.summerofmaps.com/) | "A 12-week fellowship where geospatial data analysis students work alongside experienced mentors to complete projects for nonprofit organizations."
 [Metric Geometry and Gerrymandering Group](https://mggg.org/) |  "Our mission is to study applications of geometry and computing to U.S. redistricting. We believe that gerrymandering of all kinds is a fundamental threat to our democracy."
 [New America](https://www.newamerica.org/jobs/) |  | 
