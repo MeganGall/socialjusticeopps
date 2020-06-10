@@ -1,10 +1,10 @@
-**Opportunities for Data Wranglers and Geo Folk in Social Justice Work**
+## **Opportunities for Data Wranglers and Geo Folk in Social Justice Work**
 
-Anything in quotes is pulled directly from the org website. I'll be working on adding notes and more resources.
+### Anything in quotes is pulled directly from the org website. I'll be working on adding notes and more resources.
 
-Updated 6/10/2020
+Updated 6/10/2020 
 
-Job Boards - Anything in quotes is pulled directly from the org website.  
+#### Job Boards - Anything in quotes is pulled directly from the org website.  
 Name | Org Blurb | Notes
 --- | --- | --- 
 [The Bridge](https://jobs.thebridgework.com/) | "Jobs in Tech, Policy and Politics"
@@ -17,7 +17,7 @@ Name | Org Blurb | Notes
 [Higher Ground Labs](https://jobs.highergroundlabs.com/) | "Companies you'll love to work for."
 [National Conference of State Legislatures](https://www.ncsl.org/searchresults/issearch/false/kwdid/519.aspx) | "We are the nation's most respected bipartisan organization providing states support, ideas, connections and a strong voice on Capitol Hill." | Do good work in government!
 
-Learning Opportunities
+#### Learning Opportunities
 Name | Org Blurb | Notes
 --- | --- | --- 
 [Guide to Progressive Data Jobs](https://www.guide.progressivedatajobs.org/) | "So You Want to Work in Progressive Analytics"
@@ -27,7 +27,7 @@ Name | Org Blurb | Notes
 [Power Labs](https://powerlabs.io/) | "PowerLabs helps organizers design and run people-powered campaigns."
 [Generation Data](https://www.generationdata.org/) | "Our focus is training the next generation of leaders in the progressive data management community."
 
-Volunteer Opportunities
+#### Volunteer Opportunities
 Name | Org Blurb | Notes
 --- | --- | --- 
 [State Redistricting Commissions](https://www.ncsl.org/research/redistricting/redistricting-commissions-congressional-plans.aspx) | "Redistricting Commissions: Congressional Plans" | Does your state invite citizen commissioners and map-makers? Find a list here. Get involved!
@@ -37,7 +37,7 @@ Name | Org Blurb | Notes
 
 
 
-Civil Rights Organizations
+#### Civil Rights Organizations
 Name | Other
 --- | --- 
 [Lawyers' Committee for Civil Rights Under Law](https://lawyerscommittee.org/career-opportunities/) | Non-Profit Civil Rights | 
@@ -50,7 +50,7 @@ Name | Other
 [Demos](https://www.demos.org/about/careers) | Non-Profit Civil Rights | 
 [Lambda Legal](https://www.lambdalegal.org/about-us/jobs) | Non-Profit Civil Rights
 
-Other Organizations
+#### Other Organizations
 Name | Org Blurb | Notes
 --- | --- | --- 
 [Azavea Summer of Maps](https://www.summerofmaps.com/) | "A 12-week fellowship where geospatial data analysis students work alongside experienced mentors to complete projects for nonprofit organizations."
@@ -58,7 +58,7 @@ Name | Org Blurb | Notes
 [New America](https://www.newamerica.org/jobs/) |  | 
 [Data 4 Black Lives](http://d4bl.org/) | "Data as protest. Data as accountability. Data as collective action." | There are many ways to get involved and plug in. Start by signing up here: https://d4bl.typeform.com/to/wg6agF 
 
-Other Things
+#### Other Things
 Name | What is it? | Notes
 --- | --- | ---
 [Leadership Conference on Civil and Human Rights](https://civilrights.org/about/the-coalition/) | List of Coalition Members | Each coalition member has their own hiring needs - check the individual websites.
@@ -66,6 +66,6 @@ Name | What is it? | Notes
 [Crack the Code](https://www.crackthecode.io/) | "Crack the Code supports the personal and professional growth of people working in progressive data, analytics, and technology. We started as a conference series for women, genderqueer, and trans people working in the field, and we have expanded to organize events and trainings for people of all backgrounds." |
 
 
-
+[Find me on Twitter: @DocGallJr](https://twitter.com/DocGallJr) if you want to talk shop.
 
 
